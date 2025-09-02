@@ -166,7 +166,7 @@ After completing the assessment:
 ## Author & Copyright
 
 **Author:** Juan Heyns <juan.heyns@epiuse.com>  
-**Copyright:** (c) 2025, EPI-USE America, Inc. All rights reserved.
+**Copyright:** (c) 2025, Group Elephant. All rights reserved.
 
 ---
 
