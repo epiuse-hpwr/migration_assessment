@@ -10,7 +10,7 @@ Usage:
     python migration_assessment.py <path_to_repositories_folder>
 
 Author: Juan Heyns <juan.heyns@epiuse.com>
-(c) copyright 2025, EPI-USE America, Inc. All rights reserved.
+(c) copyright 2025, Group Elephant. All rights reserved.
 """
 
 import sys

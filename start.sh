@@ -4,7 +4,7 @@
 # This script guides users through downloading MuleSoft projects and generating migration assessment reports
 
 # Author: Juan Heyns <juan.heyns@epiuse.com>
-# (c) copyright 2025, EPI-USE America, Inc. All rights reserved.
+# (c) copyright 2025, Group Elephant. All rights reserved.
 
 set -e  # Exit on any error
 
